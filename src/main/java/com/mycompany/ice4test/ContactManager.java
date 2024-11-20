@@ -50,7 +50,7 @@ public class ContactManager{
     public void clearContacts() {
         this.contactList.clear();
     }
- // add new line to test the git 
+
 }
 
 
