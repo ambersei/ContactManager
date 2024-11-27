@@ -57,5 +57,8 @@ public class Contact {
         /* Comment to test the fetch and merge
         */
         
+        
+         /* Comment made for the branch branch 
+        */
     }
 }
