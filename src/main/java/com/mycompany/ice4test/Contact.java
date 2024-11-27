@@ -53,6 +53,9 @@ public class Contact {
            *
         * @author Yue Hou
         */
+
+        /* Comment to test the fetch and merge
+        */
         
     }
 }
